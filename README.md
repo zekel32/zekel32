@@ -17,12 +17,10 @@ Passionate about technology and always eager to learn, I'm currently pursuing my
 ## 💼 Experience
 
 - **Zeta Solutions**  
-  Gaining practical experience and contributing to impactful projects.
 
 ## 🚀 What I'm Up To
 
 - Exploring new technologies and frameworks
-- Contributing to open-source projects
 - Expanding my system programming toolkit
 
 ## 📫 Let’s Connect!
