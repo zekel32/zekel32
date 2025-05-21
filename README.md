@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there, I'm zekel32! 👋
 
-<!--
-**zekel32/zekel32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Science Student**  
+Passionate about technology and always eager to learn, I'm currently pursuing my journey in computer science with a strong focus on building robust, efficient software.
 
-Here are some ideas to get you started:
+## 🛠️ Skills & Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **System Programming:**  
+  I love diving deep into how computers work, working close to the hardware, and optimizing code for performance.
+
+- **Web Development:**  
+  Building functional, modern web applications—front to back.
+
+- **Python Enthusiast:**  
+  Python is my go-to language for scripting, automation, and rapid prototyping.
+
+## 💼 Experience
+
+- **Zeta Solutions**  
+  Gaining practical experience and contributing to impactful projects.
+
+## 🚀 What I'm Up To
+
+- Exploring new technologies and frameworks
+- Contributing to open-source projects
+- Expanding my system programming toolkit
+
+## 📫 Let’s Connect!
+
+I'm always open to collaboration, learning opportunities, and networking with fellow enthusiasts. Feel free to reach out!
